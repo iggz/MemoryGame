@@ -2,7 +2,7 @@ import React from 'react';
 
 import './App.css';
 
-import MemoryCard from './memoryCard.js';
+import MemoryCardBack from './memoryCard.js';
 
 function App() {
   return (
@@ -12,31 +12,31 @@ function App() {
         <h2>Match cards to win</h2>
       </header>
       <div>
-        <MemoryCard />
-        <MemoryCard />
-        <MemoryCard />
-        <MemoryCard />
+        <MemoryCardBack />
+        <MemoryCardBack />
+        <MemoryCardBack />
+        <MemoryCardBack />
       </div>
 
       <div>
-        <MemoryCard />
-        <MemoryCard />
-        <MemoryCard />
-        <MemoryCard />
+        <MemoryCardBack />
+        <MemoryCardBack />
+        <MemoryCardBack />
+        <MemoryCardBack />
       </div>
 
       <div>
-        <MemoryCard />
-        <MemoryCard />
-        <MemoryCard />
-        <MemoryCard />
+        <MemoryCardBack />
+        <MemoryCardBack />
+        <MemoryCardBack />
+        <MemoryCardBack />
       </div>
 
       <div>
-        <MemoryCard />
-        <MemoryCard />
-        <MemoryCard />
-        <MemoryCard />
+        <MemoryCardBack />
+        <MemoryCardBack />
+        <MemoryCardBack />
+        <MemoryCardBack />
       </div>
 
 
